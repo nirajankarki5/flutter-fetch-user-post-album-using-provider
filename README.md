@@ -4,14 +4,14 @@
 - I have also used model for decoding the JSON data in ```models``` folder.
 
 ### The home page is ```users_list.dart``` which displays all the users.
-- I have implemented ```Circular Loading Indicator```
+#### I have implemented ```Circular Loading Indicator``` while the app fetches the data.
 <img src="screenshots/1.png" width="300">
 
 <img src="screenshots/2.png" width="300">
 
 ### Tapping in user redirects to new screen
-- Posts
+#### Posts
 <img src="screenshots/3.png" width="300">
 
-- Albums
+#### Albums
 <img src="screenshots/4.png" width="300">
