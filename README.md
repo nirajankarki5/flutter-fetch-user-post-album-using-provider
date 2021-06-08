@@ -5,13 +5,13 @@
 
 ### The home page is ```users_list.dart``` which displays all the users.
 - I have implemented ```Circular Loading Indicator```
-<img src="screenshot/1.png" width="300">
+<img src="screenshots/1.png" width="300">
 
-<img src="screenshot/2.png" width="300">
+<img src="screenshots/2.png" width="300">
 
 ### Tapping in user redirects to new screen
 - Posts
-<img src="screenshot/3.png" width="300">
+<img src="screenshots/3.png" width="300">
 
 - Albums
-<img src="screenshot/4.png" width="300">
+<img src="screenshots/4.png" width="300">
