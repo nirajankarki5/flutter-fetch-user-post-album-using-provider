@@ -11,7 +11,7 @@
 <img src="screenshots/2.png" width="300">
 
 ### Tapping in user redirects to new screen named ```my_tab_bar.dart```
-- ``my_tab_bar.dart`` has two tabs. Each tab has two screens, ```users_post.dart``` and ```users_album.dart```
+- ``my_tab_bar.dart`` has two tabs. Each tab has screens named, ```users_post.dart``` and ```users_album.dart```
 #### Posts
 <img src="screenshots/3.png" width="300">
 
