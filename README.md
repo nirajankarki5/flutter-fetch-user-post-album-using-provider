@@ -16,5 +16,5 @@
 <img src="screenshots/3.png" width="300">
 
 #### Albums
-- It makes use of GridView.biulder
+- It makes use of GridView.builder
 <img src="screenshots/4.png" width="300">
