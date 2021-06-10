@@ -14,7 +14,7 @@ class MyTabBar extends StatelessWidget {
     required this.name,
   });
 
-  static const routeName = "/my-tab-bar";
+  // static const routeName = "/my-tab-bar";
 
   @override
   Widget build(BuildContext context) {
