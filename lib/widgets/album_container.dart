@@ -17,7 +17,10 @@ class AlbumContainer extends StatelessWidget {
       ),
       footer: Container(
         padding: EdgeInsets.all(10),
-        color: Colors.black26,
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(10),
+          color: Colors.black26,
+        ),
         height: 60,
         child: Text(
           album.title,
